@@ -44,7 +44,8 @@ Inference is performed on a test set, and the transcriptions are saved to a CSV 
 The trained model achieves competitive performance on the validation set, as measured by the WER metric.
 
 # Contributors
-Tony Ndung'u Munene
+Tony Ndung'u Munene 
+
 Wayne Otwori Maranga
 
 
